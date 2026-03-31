@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Poverkhnost: Калькулятор",
+  "version": "1.0",
+  "description": "Быстрый расчет стоимости столешниц из камня",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": []
+}
